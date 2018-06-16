@@ -78,17 +78,16 @@
                     }
                     echo('</td></tr>');
                 }
-
+                echo '</table>';
 
             } else {
-                echo '没数据';
                 echo('<h2 class="title">' . $row["name"] . '</h2>');
+                echo '没数据';
             }
         }
     }
     ?>
 </div>
 
-</div>
 </body>
 </html>
