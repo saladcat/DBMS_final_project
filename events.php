@@ -65,7 +65,8 @@
                 echo '<td><input type="checkbox" id="qx" onclick="xuanzhong()"/></td>';
                 echo '<td>' . $row['name'] . '</td>';
                 echo '<td>' . $row['comment'] . '</td>';
-                echo '<td><a href="signup.php">
+                printf('<td><a href="signup.php?event_id=%d">', $row['id']);
+                echo '
             <button class="btn btn-default btn-event">報名</button></a>
               </td>';
                 echo '</tr>';
