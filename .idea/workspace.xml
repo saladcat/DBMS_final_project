@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4164159-bc2c-4579-8236-6754dd893a21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event/add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event/do_add.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event/status.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/19559d3e-ae6d-4f70-9402-aef45a1b7c23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/19559d3e-ae6d-4f70-9402-aef45a1b7c23.xml" afterDir="false" />
+    <list default="true" id="c4164159-bc2c-4579-8236-6754dd893a21" name="Default" comment="完成event list部分">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/events.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,7 +65,7 @@
       <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/edit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2088">
+            <state relative-caret-position="-261">
               <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
             </state>
           </provider>
@@ -113,8 +101,8 @@
       <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/event/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-116">
-              <caret line="74" column="27" lean-forward="true" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+            <state relative-caret-position="232">
+              <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -142,6 +130,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -272,12 +265,20 @@
       <workItem from="1529128724960" duration="102000" />
       <workItem from="1529128854315" duration="1720000" />
       <workItem from="1529133103081" duration="4722000" />
-      <workItem from="1529138165456" duration="298000" />
+      <workItem from="1529138165456" duration="1273000" />
     </task>
+    <task id="LOCAL-00001" summary="完成event list部分">
+      <created>1529138542577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529138542577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44934000" />
+    <option name="totallyTimeSpent" value="45909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="-9" width="1866" height="1098" extended-state="6" />
@@ -285,12 +286,12 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="14" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054115" side_tool="true" visible="true" weight="0.32810867" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32934132" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.14838035" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="12" sideWeight="0.49945888" visible="true" weight="0.32810867" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49570552" visible="true" weight="0.11255411" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15367965" />
@@ -306,36 +307,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.28742516" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.14838035" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="SQL Generator" order="13" visible="true" weight="0.3773585" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969325" visible="true" weight="0.11255411" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="14" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.28742516" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32934132" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5030675" side_tool="true" weight="0.14556277" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15367965" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成event list部分" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成event list部分" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -608,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2088">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/event">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -636,10 +610,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/event/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/event/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="74" column="27" lean-forward="true" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+        <state relative-caret-position="232">
+          <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
         </state>
       </provider>
     </entry>
