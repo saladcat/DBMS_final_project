@@ -47,7 +47,8 @@ WHERE username='$username' and password='$password'");
         //echo "验证成功！<br>";
 
         //保存用户登录状态
-        $_SESSION['username'] = $username;
+        session_start();
+        $_SESSION['username'] = $row["username"];
 
 //        if (isset($_SESSION['user']) && !empty($_SESSION['user'])) {
 //            echo "登录成功：".$_SESSION['user'];

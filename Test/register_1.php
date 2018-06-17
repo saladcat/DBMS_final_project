@@ -32,6 +32,7 @@ else
         else
         {
             echo"注册成功!";
+            mysqli_query($db,"insert into user(regdate) values(date())");
         }
     }
 }

@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>欢迎您的到来！</h1>
+<a href='my.php'>进入用户中心</a>;
 </body>
 </html>

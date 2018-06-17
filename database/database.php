@@ -22,21 +22,21 @@ $sqlCreateUser = "CREATE TABLE user (
                     regdate int(10) unsigned NOT NULL default '0',
                      PRIMARY KEY  (uid)
                     ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ";
-if ($conn->query($sqlCreateUser) === TRUE) {
-    echo "Table MyGuests created successfully";
-} else {
-    echo "创建数据表错误: " . $conn->error;
-}
+//if ($conn->query($sqlCreateUser) === TRUE) {
+//    echo "Table MyGuests created successfully";
+//} else {
+//    echo "创建数据表错误: " . $conn->error;
+//}
 
 
-$sql = "INSERT INTO user (uid, username, password)
-VALUES (null, '123', '123')";
+//$sql = "INSERT INTO user (uid, username, password)
+//VALUES (null, '123', '123')";
 
-if ($conn->query($sql) === TRUE) {
-    echo "新记录插入成功";
-} else {
-    echo "Error: " . $sql . "<br>" . $conn->error;
-}
+//if ($conn->query($sql) === TRUE) {
+//    echo "新记录插入成功";
+//} else {
+//    echo "Error: " . $sql . "<br>" . $conn->error;
+//}
 
 //$sql = "SELECT * FROM event";
 //$res = $conn->query($sql);
