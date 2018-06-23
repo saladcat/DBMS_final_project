@@ -49,11 +49,13 @@ WHERE username='$username' and password='$password'");
         //保存用户登录状态
         session_start();
         $_SESSION['username'] = $row["username"];
-        if($_SESSION['username']==='admin' ){
+
+        if($_SESSION['username']=='admin' ){
             $_SESSION['admin']=true;
         }else{
             $_SESSION['admin']=false;
         }
+        //echo $_SESSION['admin'];
 
 //        if (isset($_SESSION['user']) && !empty($_SESSION['user'])) {
 //            echo "登录成功：".$_SESSION['user'];
@@ -63,11 +65,11 @@ WHERE username='$username' and password='$password'");
         $cnt=$cnt+1;
 
     }
-//    if($cnt==0){
-//        //echo "密码错误<br>";
-//        echo"<script type='text/javascript'>alert('密码错误');location='login.php';</script>";
-//
-//        //echo "<a href='login.php'>返回</a>";
-//    }
+    if($cnt==0){
+        //echo "密码错误<br>";
+        echo"<script type='text/javascript'>alert('密码错误');location='login.php';</script>";
+
+        //echo "<a href='login.php'>返回</a>";
+    }
 }
 ?>

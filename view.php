@@ -1,4 +1,9 @@
 <?php
+session_start();
+if  ($_SESSION['username']=='admin')
+echo"<script type='text/javascript'>alert('你好管理员！正转入管理界面');location='aview.php';</script>";;
+?>
+<?php
 $con=mysqli_connect('localhost','root','root',"FinalProjec")or die("数据库连接失败");
 if(!empty($_GET['view'])){
     $v=$_GET['view'];
@@ -36,19 +41,34 @@ if(!empty($_GET['view'])){
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-link">
-                <li class="active"><a href="home.php">首頁 <span class="sr-only">(current)</span></a></li>
+                <?php
+                session_start();
+                if  ($_SESSION['username']=='admin')
+                    echo '<li><a href="homepage.php">首页 <span class="sr-only">(current)</span></a ></li>';
+                else
+                    echo '<li><a href="home.php">首页 <span class="sr-only">(current)</span></a ></li>';
+                ?>
             </ul>
             <ul class="nav navbar-nav navbar-link">
-                <li><a href="events.php">活動列表 <span class="sr-only">(current)</span></a></li>
+                <?php
+                session_start();
+                if  ($_SESSION['username']=='admin')
+                    echo '<li><a href="event/admin.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
+                else
+                    echo '<li><a href="events.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
+                ?>
             </ul>
             <ul class="nav navbar-nav navbar-link">
-                <li><a href="usersignup.html">用户注册 <span class="sr-only">(current)</span></a></li>
+                <li><a href="register.php">用户注册 <span class="sr-only">(current)</span></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-link">
                 <li><a href="login.php">登入 <span class="sr-only">(current)</span></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-link">
                 <li><a href="logout.php">登出 <span class="sr-only">(current)</span></a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-link">
+                <li><a href="my.php">用户中心 <span class="sr-only">(current)</span></a></li>
             </ul>
         </div>
     </div>
