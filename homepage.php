@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect('localhost','root','13111162',"FinalProjec")or die("数据库连接失败");
+$con=mysqli_connect('localhost','root','root',"FinalProjec")or die("数据库连接失败");
 ?>
 
 <!DOCTYPE html>

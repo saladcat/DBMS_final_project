@@ -1,7 +1,7 @@
 <?php
 						//进行提交新队员的操作，需要连接数据库，往数据库里添加新的成员
 					$student_id="";
-					$link=mysqli_connect("localhost","root","474102");
+					$link=mysqli_connect("localhost","root","root");
 						if(!$link)
 							echo "database fail<br>";
 					mysqli_select_db($link,"mytest");

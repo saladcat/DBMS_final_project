@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect('localhost','root','13111162',"FinalProjec")or die("数据库连接失败");
+$con=mysqli_connect('localhost','root','root',"FinalProjec")or die("数据库连接失败");
 //连接数据库
 	if(!empty($_POST['sub'])){
 	   $title=$_POST['ans_title'];
@@ -67,7 +67,7 @@ $con=mysqli_connect('localhost','root','13111162',"FinalProjec")or die("数据�
                     <label class="text-center" for="ans_title">公告標題</label>
                     <input type="text" id="ans_title" name="ans_title" class="form-control">
                     <br>
-                    <label class=""text-center" for="content">公告內容</label>
+                    <label class=""text-center" for="content">公告內容</form>
                    <textarea name="content" rows="8" cols="92"></textarea>
                     <br>
                     <hr>

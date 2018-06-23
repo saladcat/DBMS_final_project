@@ -1,5 +1,5 @@
 <?php
-					$link=mysqli_connect("localhost","root","474102");
+					$link=mysqli_connect("localhost","root","root");
 						if(!$link)
 							echo "database fail<br>";
 					mysqli_select_db($link,"mytest");

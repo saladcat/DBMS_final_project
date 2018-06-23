@@ -14,6 +14,7 @@ if ($conn->connect_error) {
     die("连接失败: " . $conn->connect_error);
 }
 
+//孙耕的 table user
 $sqlCreateUser = "CREATE TABLE user (
                     uid int(8) unsigned NOT NULL auto_increment,
                     username char(15) NOT NULL default '',
@@ -59,3 +60,18 @@ $sqlCreateUser = "CREATE TABLE user (
 //} else {
 //    echo '没有数据';
 //}
+
+//朱鸿宁的table anncs
+
+$sqlCreateAnncs = "CREATE TABLE anncs (
+                    aid int(8) unsigned NOT NULL auto_increment,
+                    anncs_title text NOT NULL,
+                    anncs_time date NOT NULL,
+                    anncs_content text NOT NULL,
+                     PRIMARY KEY  (aid)
+                    ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ";
+if ($conn->query($sqlCreateAnncs) === TRUE) {
+    echo "Table anncs created successfully";
+} else {
+    echo "创建数据表错误: " . $conn->error;
+}

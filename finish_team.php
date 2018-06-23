@@ -3,7 +3,7 @@
 $event_id=$_POST['event_id'];//比賽項目
 $student_id=explode(",",$_POST["student_id"]);//所有報名的學生 是個數組
 
-$link=mysqli_connect("localhost","root","474102");
+$link=mysqli_connect("localhost","root","root");
 	if(!$link)
 		echo "database fail<br>";
 mysqli_select_db($link,"mytest");
