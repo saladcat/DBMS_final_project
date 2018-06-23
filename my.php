@@ -75,7 +75,7 @@ echo '用户信息：<br />';
 echo '用户ID：'. $row["uid"].'<br />';
 echo '用户名：'. $row["username"].'<br />';
 echo '邮箱：'. $row["email"]. '<br />';
-echo '注册日期：'. '2018-6-24' .'<br />';
+echo '注册日期：'. '2018-06-24' .'<br />';
 echo '<a href="../login.php?action=logout">注销</a> 登录<br />';
 ?>
 

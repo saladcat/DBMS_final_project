@@ -2,19 +2,22 @@
 
 $username = 'root';
 $password = 'root';
-$dbname = 'FinalProjec';
+$dbname = 'mytest';
+//$dbname2 = 'mytest';
 $servername = '127.0.0.1';
 $port = 8889;
 
 // 创建连接
 $conn = new mysqli($servername, $username, $password, $dbname, $port);
 
+//mysqli_query($conn,"CREATE DATABASE mytest");
+
 // 检测连接
 if ($conn->connect_error) {
     die("连接失败: " . $conn->connect_error);
 }
 
-////孙耕的 table user
+//孙耕的 table user
 //$sqlCreateUser = "CREATE TABLE user (
 //                    uid int(8) unsigned NOT NULL auto_increment,
 //                    username char(15) NOT NULL default '',
