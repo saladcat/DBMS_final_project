@@ -1,9 +1,12 @@
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8"/>
-    <title>Marked in the browser</title>
-</head>
+<?php
 
-</body>
-</html>
+include $_SERVER['DOCUMENT_ROOT'] . '/Test/mysql_connect.php';//链接数据库
+$sql='select count(*) from user where user.username = \'qwe\' and user.password = \'qwe\'';
+echo $db->query($sql);
+
+
+
+
+
+
+    ?>

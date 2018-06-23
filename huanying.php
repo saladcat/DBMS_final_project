@@ -1,6 +1,8 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <title>欢迎您</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Home</title>
@@ -45,27 +47,8 @@
         </div>
     </div>
 </nav>
-<div class="container announce-wrapper">
-    <form action="view.php" method="GET">
-        <h3 class="title">最新公告</h3>
-        <div class="row">
-            <table class="table">
-                <td class="td-date">公告時間</td>
-                <td>標題</td>
-                <?php
-                $con=mysqli_connect('localhost','root','root',"FinalProjec")or die("数据库连接失败");
-                $q = "select * from `anncs`";
-                $result=mysqli_query($con, $q);
-                while($row=mysqli_fetch_assoc($result))
-                {
-                    echo "<tr>
-                        <td>" . $row["anncs_time"] . "</td>
-                        <td><a href=\"view.php?view=".$row["aid"]."\">" . $row["anncs_title"] . "</td>
-                        <tr>";
-                }
-                ?>
-            </table>
-        </div>
-</div>
+<h1>欢迎您的到来！
+    <a href='my.php'>进入用户中心</a>
+</h1>;
 </body>
 </html>

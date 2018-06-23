@@ -49,6 +49,11 @@ WHERE username='$username' and password='$password'");
         //保存用户登录状态
         session_start();
         $_SESSION['username'] = $row["username"];
+        if($_SESSION['username']==='admin' ){
+            $_SESSION['admin']=true;
+        }else{
+            $_SESSION['admin']=false;
+        }
 
 //        if (isset($_SESSION['user']) && !empty($_SESSION['user'])) {
 //            echo "登录成功：".$_SESSION['user'];

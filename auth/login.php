@@ -57,7 +57,7 @@ if ($account && $passowrd) {//如果用户名和密码都不为空
 //登出
 
 if($_GET['action'] == "logout"){
-    unset($_SESSION['userid']);
+    unset($_SESSION['admin']);
     unset($_SESSION['username']);
     echo '注销登录成功！点击此处 <a href="login.php">登录</a>';
     exit;

@@ -1,17 +1,46 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Home</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <link href="" rel="stylesheet">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/home.css">
-    <link rel="stylesheet" href="css/announce.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <title>欢迎您的到来</title>
 </head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Home</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/announce.css">
+<style type="text/css">
+
+    .div
+    {
+        height:1000px;
+        width:700px;
+        text-align:center;
+        margin:40px;
+
+    }
+    .text
+    {
+        font-size:20px;
+        margin:20px;
+
+    }
+    .button
+    {
+        font-size:10px;
+
+    }
+
+
+
+</style>
 <body>
+
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -45,27 +74,30 @@
         </div>
     </div>
 </nav>
-<div class="container announce-wrapper">
-    <form action="view.php" method="GET">
-        <h3 class="title">最新公告</h3>
-        <div class="row">
-            <table class="table">
-                <td class="td-date">公告時間</td>
-                <td>標題</td>
-                <?php
-                $con=mysqli_connect('localhost','root','root',"FinalProjec")or die("数据库连接失败");
-                $q = "select * from `anncs`";
-                $result=mysqli_query($con, $q);
-                while($row=mysqli_fetch_assoc($result))
-                {
-                    echo "<tr>
-                        <td>" . $row["anncs_time"] . "</td>
-                        <td><a href=\"view.php?view=".$row["aid"]."\">" . $row["anncs_title"] . "</td>
-                        <tr>";
-                }
-                ?>
-            </table>
-        </div>
-</div>
+
+<h1>注册页面</h1>
+<form method="post" action="register_1.php">
+    <div class="div">
+        <div class="text">
+            用户名<input type="text" name="username" ></div>
+        <div class="text">
+            密码:<input type="password" name="password"></div>
+        <div class="text">
+            再次输入密码：<input type="password" name="pwd_again"></div>
+        <div class="text">
+            验证码：<input type="text" name="check"><img src="showing.php"></img></div>
+
+        <div class="text">
+            <input type="radio" name="agree" value="是否同意我们的条款">同意我们的条款?</div>
+
+        <input type="submit" value="提交">
+        <input type="reset" value="清除">
+
+
+    </div>
+
+</form>
+
+
 </body>
 </html>
