@@ -26,34 +26,19 @@
 				</div>
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-link">
-                        <?php
-                        session_start();
-                        if  ($_SESSION['username']=='admin')
-                            echo '<li><a href="homepage.php">首页 <span class="sr-only">(current)</span></a ></li>';
-                        else
-                            echo '<li><a href="home.php">首页 <span class="sr-only">(current)</span></a ></li>';
-                        ?>
+                        <li><a href="home.php">首頁 <span class="sr-only">(current)</span></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-link">
-                        <?php
-                        session_start();
-                        if  ($_SESSION['username']=='admin')
-                            echo '<li><a href="event/admin.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
-                        else
-                            echo '<li><a href="events.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
-                        ?>
+                        <li class="active"><a href="events.php">活動列表 <span class="sr-only">(current)</span></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-link">
-                        <li><a href="register.php">用户注册 <span class="sr-only">(current)</span></a></li>
+                        <li><a href="usersignup.html">用户注册 <span class="sr-only">(current)</span></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-link">
                         <li><a href="login.php">登入 <span class="sr-only">(current)</span></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-link">
                         <li><a href="logout.php">登出 <span class="sr-only">(current)</span></a></li>
-                    </ul>
-                    <ul class="nav navbar-nav navbar-link">
-                        <li><a href="my.php">用户中心 <span class="sr-only">(current)</span></a></li>
                     </ul>
                 </div>
 			</div>
@@ -63,7 +48,7 @@
 				
 				<?php
 				$event_id=$_GET['event_id'];
-				$link=mysqli_connect("localhost","root","root");
+				$link=mysqli_connect("localhost","root","474102");
 						if(!$link)
 							echo "database fail<br>";
 					mysqli_select_db($link,"mytest");
@@ -121,7 +106,7 @@
 				<?php
 						//进行提交新队员的操作，需要连接数据库，往数据库里添加新的成员
 					$student_id="";
-					$link=mysqli_connect("localhost","root","root");
+					$link=mysqli_connect("localhost","root","474102");
 						if(!$link)
 							echo "database fail<br>";
 					mysqli_select_db($link,"mytest");
@@ -176,7 +161,7 @@
 						$event_id = $_GET['event_id'];
 						
 						$student_id="";
-						$link=mysqli_connect("localhost","root","root");
+						$link=mysqli_connect("localhost","root","474102");
 						if(!$link)
 							echo "database fail<br>";
 						mysqli_select_db($link,"mytest");
