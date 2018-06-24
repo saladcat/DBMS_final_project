@@ -44,6 +44,13 @@
                 ?>
             </ul>
             <ul class="nav navbar-nav navbar-link">
+                <?php
+                session_start();
+                if  ($_SESSION['username']=='admin')
+                    echo '<li><a href="admin.php">報名狀況 <span class="sr-only">(current)</span></a ></li>';
+                ?>
+            </ul>
+            <ul class="nav navbar-nav navbar-link">
                 <li><a href="register.php">用户注册 <span class="sr-only">(current)</span></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-link">
@@ -54,6 +61,9 @@
             </ul>
             <ul class="nav navbar-nav navbar-link">
                 <li><a href="my.php">用户中心 <span class="sr-only">(current)</span></a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-link">
+                <li><a href="../EN/home.php">English <span class="sr-only">(current)</span></a></li>
             </ul>
         </div>
     </div>

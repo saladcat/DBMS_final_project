@@ -36,39 +36,48 @@ $con=mysqli_connect('localhost','root','root',"FinalProjec")or die("数据库连
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">N C T U &nbsp;&nbsp; S p o r t s</a>
-        </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-link">
-                <?php
-                session_start();
-                if  ($_SESSION['username']=='admin')
-                    echo '<li><a href="homepage.php">首页 <span class="sr-only">(current)</span></a ></li>';
-                else
-                    echo '<li><a href="home.php">首页 <span class="sr-only">(current)</span></a ></li>';
-                ?>
-            </ul>
-            <ul class="nav navbar-nav navbar-link">
-                <?php
-                session_start();
-                if  ($_SESSION['username']=='admin')
-                    echo '<li><a href="event/admin.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
-                else
-                    echo '<li><a href="events.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
-                ?>
-            </ul>
-            <ul class="nav navbar-nav navbar-link">
-                <li><a href="register.php">用户注册 <span class="sr-only">(current)</span></a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-link">
-                <li><a href="login.php">登入 <span class="sr-only">(current)</span></a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-link">
-                <li><a href="logout.php">登出 <span class="sr-only">(current)</span></a></li>
-            </ul>
-            <ul class="nav navbar-nav navbar-link">
-                <li><a href="my.php">用户中心 <span class="sr-only">(current)</span></a></li>
-            </ul>
-        </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-link">
+                    <?php
+                    session_start();
+                    if  ($_SESSION['username']=='admin')
+                        echo '<li><a href="homepage.php">首页 <span class="sr-only">(current)</span></a ></li>';
+                    else
+                        echo '<li><a href="home.php">首页 <span class="sr-only">(current)</span></a ></li>';
+                    ?>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <?php
+                    session_start();
+                    if  ($_SESSION['username']=='admin')
+                        echo '<li><a href="event/admin.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
+                    else
+                        echo '<li><a href="events.php">活動列表 <span class="sr-only">(current)</span></a ></li>';
+                    ?>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <?php
+                    session_start();
+                    if  ($_SESSION['username']=='admin')
+                        echo '<li><a href="admin.php">報名狀況 <span class="sr-only">(current)</span></a ></li>';
+                    ?>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <li><a href="register.php">用户注册 <span class="sr-only">(current)</span></a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <li><a href="login.php">登入 <span class="sr-only">(current)</span></a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <li><a href="logout.php">登出 <span class="sr-only">(current)</span></a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <li><a href="my.php">用户中心 <span class="sr-only">(current)</span></a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-link">
+                    <li><a href="../EN/home.php">English <span class="sr-only">(current)</span></a></li>
+                </ul>
+            </div>
     </div>
 </nav>
 <div class="container announce-wrapper">
