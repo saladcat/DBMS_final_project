@@ -2,11 +2,486 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4164159-bc2c-4579-8236-6754dd893a21" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/19559d3e-ae6d-4f70-9402-aef45a1b7c23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/19559d3e-ae6d-4f70-9402-aef45a1b7c23.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/event/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/event/edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event/status.php" beforeDir="false" afterPath="$PROJECT_DIR$/event/status.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup(Original).php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/Test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/add_delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/anncs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/auth/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/css/announce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/css/event.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/css/logout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/database/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/event/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/event/admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/event/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/event/do_add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/event/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/event/status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/events.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/finish_team.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/ISSUE_TEMPLATE/Bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/ISSUE_TEMPLATE/Feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/ISSUE_TEMPLATE/Proposal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/PULL_REQUEST_TEMPLATE/badges.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.github/PULL_REQUEST_TEMPLATE/release.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/bin/marked" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/AUTHORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/PUBLISHING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/USING_ADVANCED.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/USING_PRO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/broken.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/demo/initial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/demo/quickref.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/img/logo-black-and-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/img/logo-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/jasmine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/lib/marked.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/man/marked.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/man/marked.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/marked.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/browser/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/browser/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/helpers/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/autolink_lines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/autolink_lines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/blockquote_list_item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/blockquote_list_item.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/case_insensitive_refs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/case_insensitive_refs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_autolinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_autolinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_blockquotes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_blockquotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_html_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_html_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_link_defs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_link_defs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_raw_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_raw_html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_thematic_breaks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/cm_thematic_breaks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/def_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/def_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/double_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/double_link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/em_2char.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/em_2char.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/escaped_angles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/escaped_angles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_autolinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_autolinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_break.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_break.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_code_hr_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_code_hr_list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_del.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_del.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_em.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_em.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_hashtag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_hashtag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_links_invalid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_links_invalid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/gfm_tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/headings_id.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/headings_id.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/hr_list_break.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/hr_list_break.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/html_comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/html_comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/lazy_blockquotes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/lazy_blockquotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/link_lt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/link_lt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/list_item_text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/list_item_text.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/loose_lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/loose_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/main.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/mangle_xss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/mangle_xss.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nested_code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nested_code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nested_em.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nested_em.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nested_square_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nested_square_link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nogfm_hashtag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/nogfm_hashtag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/not_a_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/not_a_link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/redos_html_closing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/redos_html_closing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/redos_nolink.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/redos_nolink.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/ref_paren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/ref_paren.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/relative_urls.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/relative_urls.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/same_bullet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/same_bullet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/smartypants.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/smartypants.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/toplevel_paragraphs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/toplevel_paragraphs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/tricky_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/tricky_list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/uppercase_hex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/new/uppercase_hex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/amps_and_angles_encoding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/amps_and_angles_encoding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/auto_links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/auto_links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/backslash_escapes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/backslash_escapes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/blockquotes_with_code_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/blockquotes_with_code_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/code_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/code_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/code_spans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/code_spans.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/horizontal_rules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/horizontal_rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/inline_html_advanced.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/inline_html_advanced.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/inline_html_comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/inline_html_comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/inline_html_simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/inline_html_simple.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/links_inline_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/links_inline_style.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/links_reference_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/links_reference_style.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/links_shortcut_references.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/links_shortcut_references.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/literal_quotes_in_titles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/literal_quotes_in_titles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/markdown_documentation_basics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/markdown_documentation_basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/markdown_documentation_syntax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/markdown_documentation_syntax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/nested_blockquotes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/nested_blockquotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/ordered_and_unordered_lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/ordered_and_unordered_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/strong_and_em_together.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/strong_and_em_together.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/tabs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/tidyness.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/original/tidyness.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/commonmark/commonmark-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/commonmark/commonmark.0.28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/gfm/gfm-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/gfm/gfm.0.28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/marked/marked-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/marked/marked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/specs/original/specs-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/marked-master/test/unit/marked-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/my.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/mytest_department.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/usersignup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/usersignup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TJS/welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/anncs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aview.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/announce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/event.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/logout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deletion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/admin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/do_add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event/status.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finish_team.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home(old-version).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homepage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/huanying.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login(old version).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/ISSUE_TEMPLATE/Bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/ISSUE_TEMPLATE/Feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/ISSUE_TEMPLATE/Proposal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/PULL_REQUEST_TEMPLATE/badges.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.github/PULL_REQUEST_TEMPLATE/release.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/bin/marked" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/AUTHORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/PUBLISHING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/USING_ADVANCED.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/USING_PRO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/broken.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/demo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/demo/initial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/demo/quickref.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/img/logo-black-and-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/img/logo-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/jasmine.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/lib/marked.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/man/marked.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/man/marked.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/marked.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/browser/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/browser/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/helpers/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/autolink_lines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/autolink_lines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/blockquote_list_item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/blockquote_list_item.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/case_insensitive_refs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/case_insensitive_refs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_autolinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_autolinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_blockquotes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_blockquotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_html_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_html_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_link_defs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_link_defs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_raw_html.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_raw_html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_thematic_breaks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/cm_thematic_breaks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/def_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/def_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/double_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/double_link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/em_2char.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/em_2char.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/escaped_angles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/escaped_angles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_autolinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_autolinks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_break.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_break.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_code_hr_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_code_hr_list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_del.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_del.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_em.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_em.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_hashtag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_hashtag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_links_invalid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_links_invalid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/gfm_tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/headings_id.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/headings_id.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/hr_list_break.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/hr_list_break.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/html_comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/html_comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/lazy_blockquotes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/lazy_blockquotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/link_lt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/link_lt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/list_item_text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/list_item_text.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/loose_lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/loose_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/main.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/mangle_xss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/mangle_xss.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nested_code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nested_code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nested_em.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nested_em.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nested_square_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nested_square_link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nogfm_hashtag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/nogfm_hashtag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/not_a_link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/not_a_link.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/redos_html_closing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/redos_html_closing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/redos_nolink.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/redos_nolink.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/ref_paren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/ref_paren.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/relative_urls.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/relative_urls.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/same_bullet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/same_bullet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/smartypants.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/smartypants.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/toplevel_paragraphs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/toplevel_paragraphs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/tricky_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/tricky_list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/uppercase_hex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/new/uppercase_hex.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/amps_and_angles_encoding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/amps_and_angles_encoding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/auto_links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/auto_links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/backslash_escapes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/backslash_escapes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/blockquotes_with_code_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/blockquotes_with_code_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/code_blocks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/code_blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/code_spans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/code_spans.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/horizontal_rules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/horizontal_rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/inline_html_advanced.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/inline_html_advanced.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/inline_html_comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/inline_html_comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/inline_html_simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/inline_html_simple.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/links_inline_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/links_inline_style.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/links_reference_style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/links_reference_style.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/links_shortcut_references.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/links_shortcut_references.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/literal_quotes_in_titles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/literal_quotes_in_titles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/markdown_documentation_basics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/markdown_documentation_basics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/markdown_documentation_syntax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/markdown_documentation_syntax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/nested_blockquotes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/nested_blockquotes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/ordered_and_unordered_lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/ordered_and_unordered_lists.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/strong_and_em_together.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/strong_and_em_together.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/tabs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/tidyness.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/original/tidyness.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/commonmark/commonmark-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/commonmark/commonmark.0.28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/gfm/gfm-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/gfm/gfm.0.28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/marked/marked-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/marked/marked.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/specs/original/specs-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marked-master/test/unit/marked-spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms_login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my(old version).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql_connect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytest_department.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newanncs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register_1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/showing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup(Original).php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testpost.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersignup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersignup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,6 +522,13 @@
         <item name="root@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="FinalProjec: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="anncs: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="root@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="FinalProjec: schema" type="c314c289:MysqlImplModel$Schema" />
         <item name="user: table" type="98d5ac3d:MysqlImplModel$Table" />
       </path>
       <path>
@@ -55,102 +537,86 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="mytest: schema" type="c314c289:MysqlImplModel$Schema" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="root@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="signup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/signup.php">
+      <file leaf-file-name="showing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/showing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-            </state>
+            <state relative-caret-position="-191" />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="finish_team.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/finish_team.php">
+      <file leaf-file-name="signup(Original).php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/signup(Original).php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="88" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user" pinned="false" current-in-tab="false">
-        <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/finalprojec/table/user">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/edit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="38" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user" pinned="false" current-in-tab="false">
-        <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/user">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="match" pinned="false" current-in-tab="false">
-        <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/match">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="signup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TJS/signup.php">
+        <entry file="file://$PROJECT_DIR$/EN/signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2700">
-              <caret line="180" column="28" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="28" />
+            <state relative-caret-position="532">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_delete.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TJS/add_delete.php">
+      <file leaf-file-name="Test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/Test.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="testpost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/testpost.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="usersignup.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/usersignup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="65" />
+            <state relative-caret-position="375">
+              <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="finish_team.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TJS/finish_team.php">
+      <file leaf-file-name="usersignup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/usersignup.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="503">
+              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_delete.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add_delete.php">
+      <file leaf-file-name="welcome.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EN/welcome.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EN/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="351">
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -168,9 +634,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mytest</find>
-      <find>root</find>
       <find>echo</find>
       <find>修改</find>
+      <find>showing</find>
+      <find>root</find>
+      <find>注销</find>
+      <find>action</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -179,47 +648,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/database/auth.php" />
-        <option value="$PROJECT_DIR$/welcome.html" />
-        <option value="$PROJECT_DIR$/usersignup.php" />
-        <option value="19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/finalprojec/table/user.sql" />
-        <option value="$PROJECT_DIR$/piliangshanchu.php" />
-        <option value="$PROJECT_DIR$/css/logout.css" />
-        <option value="$PROJECT_DIR$/Test/reg.html" />
-        <option value="$PROJECT_DIR$/Test/showing.php" />
-        <option value="$PROJECT_DIR$/Test/huangying.php" />
-        <option value="$PROJECT_DIR$/Test/ms_login.php" />
-        <option value="$PROJECT_DIR$/Test.php" />
-        <option value="$PROJECT_DIR$/Test/mysql_connect.php" />
-        <option value="$PROJECT_DIR$/Test/huanying.php" />
-        <option value="$PROJECT_DIR$/home的副本.php" />
-        <option value="$PROJECT_DIR$/deletion.php" />
         <option value="$PROJECT_DIR$/Test/register_1.php" />
         <option value="$PROJECT_DIR$/delete.php" />
         <option value="$PROJECT_DIR$/Test/check.php" />
-        <option value="$PROJECT_DIR$/auth/login.php" />
         <option value="$PROJECT_DIR$/Test/login.php" />
         <option value="$PROJECT_DIR$/Test/register.php" />
         <option value="$PROJECT_DIR$/Test/my.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/19559d3e-ae6d-4f70-9402-aef45a1b7c23/console_1.sql" />
         <option value="$PROJECT_DIR$/database/database.php" />
-        <option value="$PROJECT_DIR$/finish_team.php" />
         <option value="$PROJECT_DIR$/check.php" />
-        <option value="$PROJECT_DIR$/home.php" />
         <option value="$PROJECT_DIR$/anncs.php" />
         <option value="$PROJECT_DIR$/aview.php" />
-        <option value="$PROJECT_DIR$/events.php" />
-        <option value="$PROJECT_DIR$/homepage.php" />
         <option value="$PROJECT_DIR$/huanying.php" />
         <option value="$PROJECT_DIR$/login.php" />
-        <option value="$PROJECT_DIR$/logout.php" />
-        <option value="$PROJECT_DIR$/my.php" />
         <option value="$PROJECT_DIR$/newanncs.php" />
-        <option value="$PROJECT_DIR$/register.php" />
-        <option value="$PROJECT_DIR$/signup.php" />
         <option value="$PROJECT_DIR$/usersignup.html" />
         <option value="$PROJECT_DIR$/view.php" />
-        <option value="$PROJECT_DIR$/add_delete.php" />
         <option value="$PROJECT_DIR$/event/admin.php" />
         <option value="$PROJECT_DIR$/event/edit.php" />
         <option value="$PROJECT_DIR$/event/status.php" />
@@ -227,7 +671,34 @@
         <option value="$PROJECT_DIR$/TJS/finish_team.php" />
         <option value="$PROJECT_DIR$/TJS/delete.php" />
         <option value="$PROJECT_DIR$/TJS/signup.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/homepage.php" />
         <option value="$PROJECT_DIR$/edit.php" />
+        <option value="$PROJECT_DIR$/signup.php" />
+        <option value="$PROJECT_DIR$/add_delete.php" />
+        <option value="$PROJECT_DIR$/finish_team.php" />
+        <option value="$PROJECT_DIR$/showing.php" />
+        <option value="$PROJECT_DIR$/register_1.php" />
+        <option value="$PROJECT_DIR$/events.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/my.php" />
+        <option value="$PROJECT_DIR$/auth/login.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/CN/home.php" />
+        <option value="$PROJECT_DIR$/EN/home.php" />
+        <option value="$PROJECT_DIR$/EN/anncs.php" />
+        <option value="$PROJECT_DIR$/EN/aview.php" />
+        <option value="$PROJECT_DIR$/EN/edit.php" />
+        <option value="$PROJECT_DIR$/EN/events.php" />
+        <option value="$PROJECT_DIR$/EN/homepage.php" />
+        <option value="$PROJECT_DIR$/EN/huanying.php" />
+        <option value="$PROJECT_DIR$/EN/login.php" />
+        <option value="$PROJECT_DIR$/EN/logout.php" />
+        <option value="$PROJECT_DIR$/EN/my.php" />
+        <option value="$PROJECT_DIR$/EN/newanncs.php" />
+        <option value="$PROJECT_DIR$/EN/signup.php" />
+        <option value="$PROJECT_DIR$/EN/usersignup.html" />
+        <option value="$PROJECT_DIR$/EN/view.php" />
       </list>
     </option>
   </component>
@@ -239,8 +710,8 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/TJS/marked-master/package.json" />
-      <path value="$PROJECT_DIR$/marked-master/package.json" />
+      <path value="$PROJECT_DIR$/CN/marked-master/package.json" />
+      <path value="$PROJECT_DIR$/EN/marked-master/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP5.6" />
@@ -265,17 +736,7 @@
             <path>
               <item name="DBMSFinal" type="b2602c69:ProjectViewProjectNode" />
               <item name="DBMSFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DBMSFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DBMSFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DBMSFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DBMSFinal" type="462c0819:PsiDirectoryNode" />
-              <item name="event" type="462c0819:PsiDirectoryNode" />
+              <item name="EN" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,11 +805,14 @@
       <workItem from="1529765332994" duration="309000" />
       <workItem from="1529765923037" duration="1468000" />
       <workItem from="1529773057452" duration="396000" />
+      <workItem from="1529775056908" duration="224000" />
+      <workItem from="1529799403280" duration="4202000" />
+      <workItem from="1529805117918" duration="2008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39063000" />
+    <option name="totallyTimeSpent" value="45497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1152" height="720" extended-state="0" />
@@ -361,7 +825,6 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32934132" />
-      <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.30538923" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23003472" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.21527778" />
@@ -375,6 +838,7 @@
       <window_info anchor="bottom" id="SQL Generator" order="12" visible="true" weight="0.3773585" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.30538923" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
     </layout>
   </component>
@@ -385,200 +849,49 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/anncs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aview.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="80" column="14" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
+        <state relative-caret-position="1200">
+          <caret line="80" column="14" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="80" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/check.php">
+    <entry file="file://$PROJECT_DIR$/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="63" column="93" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="93" />
+        <state relative-caret-position="2640">
+          <caret line="176" column="69" selection-start-line="176" selection-start-column="65" selection-end-line="176" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db2.php">
+    <entry file="file://$PROJECT_DIR$/add_delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-777">
-          <caret line="86" column="9" lean-forward="true" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
+        <state relative-caret-position="45">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/delete.php">
+    <entry file="file://$PROJECT_DIR$/finish_team.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deletion.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diagram.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/events.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exe.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/huanying.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login(old version).php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="80" column="14" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ms_login.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-402" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newanncs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/showing.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testpost.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/usersignup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        <state relative-caret-position="195">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usersignup.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view.php">
+    <entry file="file://$PROJECT_DIR$/events.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        <state relative-caret-position="247">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/welcome.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/registration">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home(old-version).php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/team">
+    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/event">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
@@ -587,120 +900,254 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/event/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="57" selection-end-column="14" />
+        <state relative-caret-position="190">
+          <caret line="84" selection-start-line="84" selection-end-line="86" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event/delete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/do_add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/status.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TJS/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-626">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TJS/delete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TJS/add_delete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="65" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TJS/finish_team.php">
+    <entry file="file://$PROJECT_DIR$/event/add.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="38" />
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TJS/signup.php">
+    <entry file="file://$PROJECT_DIR$/css/logout.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/home.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="180" column="28" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="28" />
+        <state relative-caret-position="173">
+          <caret line="102" column="24" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/match">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+    <entry file="file://$PROJECT_DIR$/login(old version).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="14" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="90" column="61" lean-forward="true" selection-start-line="90" selection-end-line="90" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/add_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/anncs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/aview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-582" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/delete.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/deletion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/exe.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/finish_team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-927" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/huanying.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/learn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/ms_login.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/my.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/newanncs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/note.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/register.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/register_1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/showing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/signup(Original).php">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <filtering enabled="true" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/add_delete.php">
+    <entry file="file://$PROJECT_DIR$/EN/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="532">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/signup.php">
+    <entry file="file://$PROJECT_DIR$/EN/Test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/testpost.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/usersignup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        <state relative-caret-position="375">
+          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finish_team.php">
+    <entry file="file://$PROJECT_DIR$/EN/usersignup.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EN/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="88" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+        <state relative-caret-position="503">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/finalprojec/table/user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/EN/welcome.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/edit.php">
+    <entry file="file://$PROJECT_DIR$/EN/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="38" />
+        <state relative-caret-position="351">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
     </entry>
