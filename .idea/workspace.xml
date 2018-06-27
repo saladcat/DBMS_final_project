@@ -2,23 +2,485 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4164159-bc2c-4579-8236-6754dd893a21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CN/event/do_delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/add_delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/add_delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/anncs.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/anncs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/auth/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/auth/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/aview.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/aview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/css/announce.css" beforeDir="false" afterPath="$PROJECT_DIR$/CN/css/announce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/css/event.css" beforeDir="false" afterPath="$PROJECT_DIR$/CN/css/event.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/CN/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/CN/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/css/logout.css" beforeDir="false" afterPath="$PROJECT_DIR$/CN/css/logout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/database/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/database/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/db2.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/db2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/deletion.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/deletion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/CN/diagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/event/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/event/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/event/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/event/admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/event/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/event/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/event/do_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/event/do_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/event/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/event/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/event/status.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/event/status.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/events.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/homepage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN/huanying.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/huanying.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/exe.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/exe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/finish_team.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/finish_team.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/home(old-version).php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/home(old-version).php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/learn.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/learn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/login(old version).php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/login(old version).php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE/Bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE/Bug_report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE/Feature_request.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE/Feature_request.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE/Proposal.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/ISSUE_TEMPLATE/Proposal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/PULL_REQUEST_TEMPLATE/badges.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/PULL_REQUEST_TEMPLATE/badges.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.github/PULL_REQUEST_TEMPLATE/release.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.github/PULL_REQUEST_TEMPLATE/release.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/bin/marked" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/bin/marked" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/component.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/component.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/AUTHORS.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/AUTHORS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/PUBLISHING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/PUBLISHING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/USING_ADVANCED.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/USING_ADVANCED.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/USING_PRO.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/USING_PRO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/broken.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/broken.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/demo/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/demo/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/demo/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/demo/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/demo/initial.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/demo/initial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/demo/quickref.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/demo/quickref.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/img/logo-black-and-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/img/logo-black-and-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/img/logo-black.svg" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/img/logo-black.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/jasmine.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/jasmine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/lib/marked.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/lib/marked.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/man/marked.1" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/man/marked.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/man/marked.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/man/marked.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/marked.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/marked.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/README" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/browser/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/browser/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/browser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/browser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/browser/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/browser/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/helpers/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/helpers/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/autolink_lines.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/autolink_lines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/autolink_lines.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/autolink_lines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/blockquote_list_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/blockquote_list_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/blockquote_list_item.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/blockquote_list_item.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/case_insensitive_refs.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/case_insensitive_refs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/case_insensitive_refs.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/case_insensitive_refs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_autolinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_autolinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_autolinks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_autolinks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_blockquotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_blockquotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_blockquotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_blockquotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_html_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_html_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_html_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_html_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_link_defs.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_link_defs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_link_defs.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_link_defs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_links.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_raw_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_raw_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_raw_html.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_raw_html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_thematic_breaks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_thematic_breaks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/cm_thematic_breaks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/cm_thematic_breaks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/def_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/def_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/def_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/def_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/double_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/double_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/double_link.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/double_link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/em_2char.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/em_2char.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/em_2char.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/em_2char.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/escaped_angles.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/escaped_angles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/escaped_angles.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/escaped_angles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_autolinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_autolinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_autolinks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_autolinks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_break.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_break.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_break.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_break.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code_hr_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code_hr_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code_hr_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_code_hr_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_del.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_del.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_del.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_del.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_em.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_em.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_em.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_em.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_hashtag.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_hashtag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_hashtag.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_hashtag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_links_invalid.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_links_invalid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_links_invalid.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_links_invalid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_tables.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/gfm_tables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/headings_id.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/headings_id.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/headings_id.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/headings_id.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/hr_list_break.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/hr_list_break.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/hr_list_break.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/hr_list_break.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/html_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/html_comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/html_comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/html_comments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/lazy_blockquotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/lazy_blockquotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/lazy_blockquotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/lazy_blockquotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/link_lt.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/link_lt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/link_lt.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/link_lt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/list_item_text.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/list_item_text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/list_item_text.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/list_item_text.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/loose_lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/loose_lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/loose_lists.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/loose_lists.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/main.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/main.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/mangle_xss.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/mangle_xss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/mangle_xss.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/mangle_xss.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nested_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nested_code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nested_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nested_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nested_em.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nested_em.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nested_em.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nested_em.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nested_square_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nested_square_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nested_square_link.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nested_square_link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nogfm_hashtag.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nogfm_hashtag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/nogfm_hashtag.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/nogfm_hashtag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/not_a_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/not_a_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/not_a_link.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/not_a_link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/redos_html_closing.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/redos_html_closing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/redos_html_closing.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/redos_html_closing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/redos_nolink.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/redos_nolink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/redos_nolink.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/redos_nolink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/ref_paren.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/ref_paren.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/ref_paren.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/ref_paren.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/relative_urls.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/relative_urls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/relative_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/relative_urls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/same_bullet.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/same_bullet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/same_bullet.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/same_bullet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/smartypants.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/smartypants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/smartypants.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/smartypants.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/toplevel_paragraphs.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/toplevel_paragraphs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/toplevel_paragraphs.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/toplevel_paragraphs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/tricky_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/tricky_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/tricky_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/tricky_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/uppercase_hex.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/uppercase_hex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/new/uppercase_hex.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/new/uppercase_hex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/amps_and_angles_encoding.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/amps_and_angles_encoding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/amps_and_angles_encoding.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/amps_and_angles_encoding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/auto_links.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/auto_links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/auto_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/auto_links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/backslash_escapes.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/backslash_escapes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/backslash_escapes.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/backslash_escapes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/blockquotes_with_code_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/blockquotes_with_code_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/blockquotes_with_code_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/blockquotes_with_code_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/code_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/code_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/code_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/code_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/code_spans.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/code_spans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/code_spans.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/code_spans.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/horizontal_rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/horizontal_rules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/horizontal_rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/horizontal_rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_advanced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_advanced.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_advanced.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_comments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_simple.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/inline_html_simple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/links_inline_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/links_inline_style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/links_inline_style.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/links_inline_style.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/links_reference_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/links_reference_style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/links_reference_style.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/links_reference_style.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/links_shortcut_references.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/links_shortcut_references.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/links_shortcut_references.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/links_shortcut_references.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/literal_quotes_in_titles.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/literal_quotes_in_titles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/literal_quotes_in_titles.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/literal_quotes_in_titles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_basics.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_basics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_syntax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/markdown_documentation_syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/nested_blockquotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/nested_blockquotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/nested_blockquotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/nested_blockquotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/ordered_and_unordered_lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/ordered_and_unordered_lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/ordered_and_unordered_lists.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/ordered_and_unordered_lists.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/strong_and_em_together.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/strong_and_em_together.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/strong_and_em_together.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/strong_and_em_together.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/tabs.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/tabs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/tidyness.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/tidyness.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/original/tidyness.md" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/original/tidyness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/commonmark/commonmark-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/commonmark/commonmark-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/commonmark/commonmark.0.28.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/commonmark/commonmark.0.28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/gfm/gfm-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/gfm/gfm-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/gfm/gfm.0.28.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/gfm/gfm.0.28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/marked/marked-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/marked/marked-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/marked/marked.json" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/marked/marked.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/specs/original/specs-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/specs/original/specs-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/marked-master/test/unit/marked-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/CN/marked-master/test/unit/marked-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/my(old version).php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/my(old version).php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/my.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/my.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/mytest.sql" beforeDir="false" afterPath="$PROJECT_DIR$/CN/mytest.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/mytest_department.sql" beforeDir="false" afterPath="$PROJECT_DIR$/CN/mytest_department.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/newanncs.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/newanncs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CN/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/note.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/note.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/testpost.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/testpost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/usersignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/usersignup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/usersignup.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/usersignup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CN/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/CN/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CN/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/CN/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/add_delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/add_delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/anncs.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/anncs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/auth/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/auth/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/aview.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/aview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/css/announce.css" beforeDir="false" afterPath="$PROJECT_DIR$/EN/css/announce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/css/event.css" beforeDir="false" afterPath="$PROJECT_DIR$/EN/css/event.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/EN/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/EN/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/css/logout.css" beforeDir="false" afterPath="$PROJECT_DIR$/EN/css/logout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/database/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/database/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/db2.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/db2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/deletion.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/deletion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/diagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/EN/diagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/event/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/event/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/event/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/event/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/event/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/event/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/event/do_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/event/do_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/event/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/event/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/event/status.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/event/status.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/events.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/exe.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/exe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/finish_team.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/finish_team.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/home(old-version).php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/home(old-version).php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/learn.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/learn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/login(old version).php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/login(old version).php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE/Bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE/Bug_report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE/Feature_request.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE/Feature_request.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE/Proposal.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/ISSUE_TEMPLATE/Proposal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/PULL_REQUEST_TEMPLATE/badges.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/PULL_REQUEST_TEMPLATE/badges.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.github/PULL_REQUEST_TEMPLATE/release.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.github/PULL_REQUEST_TEMPLATE/release.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/bin/marked" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/bin/marked" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/component.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/component.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/AUTHORS.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/AUTHORS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/CODE_OF_CONDUCT.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/PUBLISHING.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/PUBLISHING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/USING_ADVANCED.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/USING_ADVANCED.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/USING_PRO.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/USING_PRO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/broken.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/broken.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/demo/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/demo/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/demo/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/demo/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/demo/initial.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/demo/initial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/demo/quickref.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/demo/quickref.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/img/logo-black-and-white.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/img/logo-black-and-white.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/img/logo-black.svg" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/img/logo-black.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/jasmine.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/jasmine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/lib/marked.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/lib/marked.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/man/marked.1" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/man/marked.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/man/marked.1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/man/marked.1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/marked.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/marked.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/README" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/browser/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/browser/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/browser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/browser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/browser/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/browser/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/helpers/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/helpers/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/autolink_lines.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/autolink_lines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/autolink_lines.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/autolink_lines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/blockquote_list_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/blockquote_list_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/blockquote_list_item.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/blockquote_list_item.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/case_insensitive_refs.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/case_insensitive_refs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/case_insensitive_refs.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/case_insensitive_refs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_autolinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_autolinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_autolinks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_autolinks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_blockquotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_blockquotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_blockquotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_blockquotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_html_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_html_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_html_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_html_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_link_defs.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_link_defs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_link_defs.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_link_defs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_links.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_raw_html.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_raw_html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_raw_html.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_raw_html.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_thematic_breaks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_thematic_breaks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/cm_thematic_breaks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/cm_thematic_breaks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/def_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/def_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/def_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/def_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/double_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/double_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/double_link.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/double_link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/em_2char.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/em_2char.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/em_2char.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/em_2char.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/escaped_angles.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/escaped_angles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/escaped_angles.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/escaped_angles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_autolinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_autolinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_autolinks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_autolinks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_break.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_break.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_break.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_break.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code_hr_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code_hr_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code_hr_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_code_hr_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_del.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_del.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_del.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_del.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_em.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_em.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_em.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_em.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_hashtag.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_hashtag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_hashtag.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_hashtag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_links_invalid.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_links_invalid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_links_invalid.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_links_invalid.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_tables.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/gfm_tables.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/headings_id.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/headings_id.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/headings_id.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/headings_id.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/hr_list_break.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/hr_list_break.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/hr_list_break.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/hr_list_break.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/html_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/html_comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/html_comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/html_comments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/lazy_blockquotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/lazy_blockquotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/lazy_blockquotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/lazy_blockquotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/link_lt.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/link_lt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/link_lt.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/link_lt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/links.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/list_item_text.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/list_item_text.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/list_item_text.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/list_item_text.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/loose_lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/loose_lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/loose_lists.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/loose_lists.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/main.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/main.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/mangle_xss.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/mangle_xss.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/mangle_xss.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/mangle_xss.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nested_code.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nested_code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nested_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nested_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nested_em.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nested_em.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nested_em.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nested_em.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nested_square_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nested_square_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nested_square_link.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nested_square_link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nogfm_hashtag.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nogfm_hashtag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/nogfm_hashtag.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/nogfm_hashtag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/not_a_link.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/not_a_link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/not_a_link.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/not_a_link.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/redos_html_closing.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/redos_html_closing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/redos_html_closing.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/redos_html_closing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/redos_nolink.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/redos_nolink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/redos_nolink.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/redos_nolink.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/ref_paren.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/ref_paren.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/ref_paren.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/ref_paren.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/relative_urls.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/relative_urls.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/relative_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/relative_urls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/same_bullet.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/same_bullet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/same_bullet.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/same_bullet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/smartypants.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/smartypants.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/smartypants.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/smartypants.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/toplevel_paragraphs.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/toplevel_paragraphs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/toplevel_paragraphs.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/toplevel_paragraphs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/tricky_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/tricky_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/tricky_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/tricky_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/uppercase_hex.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/uppercase_hex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/new/uppercase_hex.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/new/uppercase_hex.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/amps_and_angles_encoding.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/amps_and_angles_encoding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/amps_and_angles_encoding.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/amps_and_angles_encoding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/auto_links.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/auto_links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/auto_links.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/auto_links.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/backslash_escapes.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/backslash_escapes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/backslash_escapes.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/backslash_escapes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/blockquotes_with_code_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/blockquotes_with_code_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/blockquotes_with_code_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/blockquotes_with_code_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/code_blocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/code_blocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/code_blocks.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/code_blocks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/code_spans.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/code_spans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/code_spans.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/code_spans.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/hard_wrapped_paragraphs_with_list_like_lines.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/horizontal_rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/horizontal_rules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/horizontal_rules.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/horizontal_rules.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_advanced.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_advanced.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_advanced.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_advanced.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_comments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_simple.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_simple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_simple.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/inline_html_simple.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/links_inline_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/links_inline_style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/links_inline_style.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/links_inline_style.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/links_reference_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/links_reference_style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/links_reference_style.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/links_reference_style.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/links_shortcut_references.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/links_shortcut_references.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/links_shortcut_references.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/links_shortcut_references.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/literal_quotes_in_titles.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/literal_quotes_in_titles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/literal_quotes_in_titles.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/literal_quotes_in_titles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_basics.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_basics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_syntax.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_syntax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/markdown_documentation_syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/nested_blockquotes.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/nested_blockquotes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/nested_blockquotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/nested_blockquotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/ordered_and_unordered_lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/ordered_and_unordered_lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/ordered_and_unordered_lists.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/ordered_and_unordered_lists.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/strong_and_em_together.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/strong_and_em_together.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/strong_and_em_together.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/strong_and_em_together.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/tabs.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/tabs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/tidyness.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/tidyness.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/original/tidyness.md" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/original/tidyness.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/commonmark/commonmark-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/commonmark/commonmark-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/commonmark/commonmark.0.28.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/commonmark/commonmark.0.28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/gfm/gfm-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/gfm/gfm-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/gfm/gfm.0.28.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/gfm/gfm.0.28.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/marked/marked-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/marked/marked-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/marked/marked.json" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/marked/marked.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/specs/original/specs-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/specs/original/specs-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/marked-master/test/unit/marked-spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/EN/marked-master/test/unit/marked-spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/my(old version).php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/my(old version).php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/my.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/my.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/mytest.sql" beforeDir="false" afterPath="$PROJECT_DIR$/EN/mytest.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/mytest_department.sql" beforeDir="false" afterPath="$PROJECT_DIR$/EN/mytest_department.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/newanncs.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/newanncs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/note.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/note.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/testpost.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/testpost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/usersignup.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/usersignup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/usersignup.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/usersignup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/EN/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EN/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/EN/welcome.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,91 +505,104 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="root@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="root@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="root@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mytest: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/logout.php">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CN/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state relative-caret-position="3509">
+              <caret line="121" column="10" selection-start-line="99" selection-end-line="121" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ms_login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/ms_login.php">
+      <file leaf-file-name="register_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CN/register_1.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="my.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CN/my.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+            <state relative-caret-position="2900">
+              <caret line="100" column="61" selection-start-line="78" selection-end-line="100" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newanncs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/newanncs.php">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CN/auth/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+            <state>
+              <caret selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/register.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="showing.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/showing.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signup.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/signup.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testpost.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/testpost.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CN/view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CN/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="104" column="55" lean-forward="true" selection-start-line="104" selection-start-column="55" selection-end-line="104" selection-end-column="55" />
+            <state relative-caret-position="1247">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CN/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="773">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CN/event/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CN/event/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-116">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CN/database/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event" pinned="false" current-in-tab="false">
+        <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/event">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -225,33 +700,40 @@
       <path value="$PROJECT_DIR$/EN/marked-master/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP5.6" />
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="34" />
-    <option name="y" value="23" />
-    <option name="width" value="1118" />
-    <option name="height" value="697" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="148" />
+    <option name="y" value="-10" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DBMSFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DBMSFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="DBMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBMS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DBMSFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DBMSFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="DBMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBMS" type="462c0819:PsiDirectoryNode" />
               <item name="CN" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DBMSFinal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DBMSFinal" type="462c0819:PsiDirectoryNode" />
+              <item name="DBMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBMS" type="462c0819:PsiDirectoryNode" />
+              <item name="CN" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DBMS" type="462c0819:PsiDirectoryNode" />
               <item name="CN" type="462c0819:PsiDirectoryNode" />
               <item name="event" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -259,7 +741,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,31 +806,32 @@
       <workItem from="1529775056908" duration="224000" />
       <workItem from="1529799403280" duration="4202000" />
       <workItem from="1529805117918" duration="2113000" />
-      <workItem from="1529808390799" duration="1223000" />
+      <workItem from="1529808390799" duration="1452000" />
+      <workItem from="1529822717198" duration="1312000" />
+      <workItem from="1530078589175" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46825000" />
+    <option name="totallyTimeSpent" value="48450000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1152" height="720" extended-state="0" />
+    <frame x="63" y="-9" width="1866" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="14" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32934132" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23003472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.21527778" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.22348484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -357,7 +839,8 @@
       <window_info anchor="bottom" id="SQL Generator" order="12" visible="true" weight="0.3773585" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" order="13" weight="0.30538923" />
+      <window_info anchor="bottom" id="Database Console" order="13" visible="true" weight="0.30538923" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,35 +850,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EN/huanying.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/learn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EN/ms_login.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/EN/my.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
@@ -425,14 +879,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/signup(Original).php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/EN/signup.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -473,9 +920,6 @@
           <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CN/register_1.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CN/home(old-version).php">
       <provider selected="true" editor-type-id="text-editor">
@@ -552,13 +996,6 @@
         <state relative-caret-position="-927" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CN/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="66" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CN/homepage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
@@ -585,7 +1022,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CN/logout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
+        <state relative-caret-position="1035">
           <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
         </state>
       </provider>
@@ -593,40 +1030,20 @@
     <entry file="file://$PROJECT_DIR$/CN/ms_login.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CN/my.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CN/newanncs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="1380">
           <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CN/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CN/showing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CN/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="1943">
           <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,15 +1052,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CN/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
+        <state relative-caret-position="2378">
           <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CN/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="104" column="55" lean-forward="true" selection-start-line="104" selection-start-column="55" selection-end-line="104" selection-end-column="55" />
+        <state relative-caret-position="1247">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://19559d3e-ae6d-4f70-9402-aef45a1b7c23/schema/mytest/table/event">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3509">
+          <caret line="121" column="10" selection-start-line="99" selection-end-line="121" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/register_1.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/my.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2900">
+          <caret line="100" column="61" selection-start-line="78" selection-end-line="100" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/event/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/event/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CN/database/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
